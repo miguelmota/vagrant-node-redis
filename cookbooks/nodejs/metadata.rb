@@ -1,0 +1,8 @@
+name             "nodejs"
+maintainer       ""
+maintainer_email ""
+license          ""
+description      ""
+version          "0.0.1"
+recipe           "nodejs", "Installs Node.JS"
+depends          "build-essential"
