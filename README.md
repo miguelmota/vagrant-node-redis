@@ -38,7 +38,7 @@ Destroy the active VM and rebuild from the base box:
 $ vagrant destroy --force && vagrant up
 ```
 
-Re-runsprovisioners without stopping the VM:
+Re-run provisioners without stopping the VM:
 
 ```bash
 $ vagrant provision
