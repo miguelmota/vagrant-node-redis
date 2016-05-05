@@ -24,6 +24,12 @@ Bootup VM:
 $ vagrant up
 ```
 
+SSH into the box:
+
+```
+$ vagrant ssh
+```
+
 # misc
 
 Reload Vagrantfile only:
