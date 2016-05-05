@@ -4,7 +4,7 @@
 
 # Instructions
 
-[downloads](https://www.vagrantup.com/downloads.html) page
+Download and install [Vagrant](https://www.vagrantup.com).
 
 Install *vbguest* plugin in order to mount folders:
 
